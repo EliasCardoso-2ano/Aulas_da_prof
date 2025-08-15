@@ -10,7 +10,7 @@ public class exercicio_7 {
 
         int sexo;
         System.out.println("Digite o seu sexo:");
-        System.out.println("Exemplo: mulher ou homem ");
+        System.out.println("Exemplo: mulher = 1 ou homem = 2");
         sexo = LER.nextInt();
 
         float altura = 0; 
