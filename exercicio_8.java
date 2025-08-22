@@ -9,7 +9,7 @@ public class exercicio_8 {
         System.out.println("Qual é o preço do produto?");
         preço = LER.nextInt();
 
-        produto
+        
         
     }
 }
