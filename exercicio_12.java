@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio12 {
+public class exercicio_12 {
 
     final static Scanner LER = new Scanner(System.in);
     public static void main(String[] args) {
