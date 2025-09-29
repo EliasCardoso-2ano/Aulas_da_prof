@@ -9,6 +9,7 @@ public class exercicio_13 {
         valor = LER.nextInt();
 
         int cotador = 0;
+         
 
     }
 }
